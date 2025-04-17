@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="soft_purple">#BE8EF9</color> <!-- Light purple -->
+    <color name="primary">#3B82F6</color>
+    <color name="primary_dark">#2563EB</color>
+    <color name="primary_light">#DBEAFE</color>
+    <color name="accent">#F59E0B</color>
+
+    <!-- Standard colors -->
+
+    <color name="transparent">#00000000</color>
+
+    <!-- Background colors -->
+    <color name="background_light">#F8F9FA</color>
+    <color name="logo_background">#E0E7FF</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#6B7280</color>
+
+    <!-- UI element colors -->
+    <color name="border_light">#D1D5DB</color>
+    <color name="divider">#D1D5DB</color>
+    <color name="input_stroke_color">#D1D5DB</color>
+
+    <!-- Password strength indicator colors -->
+    <color name="strength_empty">#D1D5DB</color>
+    <color name="strength_weak">#EF4444</color>
+    <color name="strength_medium">#F59E0B</color>
+    <color name="strength_good">#10B981</color>
+    <color name="strength_strong">#059669</color>
+
+    <!-- System colors required by Android -->
+    <color name="colorPrimary">@color/primary</color>
+    <color name="colorPrimaryDark">@color/primary_dark</color>
+    <color name="colorAccent">@color/accent</color>
+
+
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22889704628",
+    "project_id": "tna-squad",
+    "storage_bucket": "tna-squad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22889704628:android:79aec8f6b6852f66787be1",
+        "android_client_info": {
+          "package_name": "com.example.tnasquad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22889704628-q53chr6l864g7df8a0ojvotkb7p7tlk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA5RIwDi4knaurgncQoMZjnGsOHEF30HI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22889704628-q53chr6l864g7df8a0ojvotkb7p7tlk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

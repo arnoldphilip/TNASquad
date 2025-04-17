@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TNASquad</string>
+    <string name="default_web_client_id">22889704628-q53chr6l864g7df8a0ojvotkb7p7tlk3.apps.googleusercontent.com</string>
+
+
+        <string name="continue_with_google">Continue with Google</string>
+        <string name="create_account">Create Account</string>
+        <string name="full_name">Full Name</string>
+        <string name="email">Email</string>
+        <string name="phone_number">Phone Number</string>
+        <string name="password">Password</string>
+        <string name="confirm_password">Confirm Password</string>
+
+
+</resources>
